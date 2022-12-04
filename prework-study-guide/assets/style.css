@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
 header,
 footer {
     width: 100%;
@@ -10,7 +9,6 @@ footer {
     background-color: blue;
     color: white;
 }
-
 h1,
 h2 {
     text-align: center;
@@ -25,9 +23,14 @@ img {
 ul {
     padding left: 40px;
     font-size: 20px;
-
 }
 p {
     text-align: center;
     font-size: 30px;
+}
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid grey;
+    box-shadow: 5px 10px #888888
 }
